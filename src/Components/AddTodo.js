@@ -19,7 +19,7 @@ const AddTodo = (props) => {
 
         <>
             <div className="d-flex justify-content-center align-items-center ">
-                <div className="card p-4" style={{ width: "300px" }}>
+                <div className="card p-4 m-2" style={{ width: "300px" }}>
                     <h4 className="card-title text-center mb-4">Add New Task</h4>
                     <form onSubmit={submit}>
                         <div className="mb-3">
