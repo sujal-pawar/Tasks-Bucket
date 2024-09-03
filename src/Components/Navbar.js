@@ -12,7 +12,7 @@ const Navbar = () => {
 
                     <ul className="nav nav-pills">
                         <li className="nav-item"><a href="/" className="nav-link text-danger">Home</a></li>
-                        <li className="nav-item"><a href="/" className="nav-link text-danger">Add Task</a></li>
+                        <li className="nav-item"><a href="/" className="nav-link text-danger">About</a></li>
                     </ul>
                 </header>
             </div>
