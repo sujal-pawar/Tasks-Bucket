@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Text-Bucket/static/css/main.f855e6bc.css",
-    "main.js": "/Text-Bucket/static/js/main.443ee46e.js",
-    "static/js/453.59bb3b6d.chunk.js": "/Text-Bucket/static/js/453.59bb3b6d.chunk.js",
-    "index.html": "/Text-Bucket/index.html",
-    "main.f855e6bc.css.map": "/Text-Bucket/static/css/main.f855e6bc.css.map",
-    "main.443ee46e.js.map": "/Text-Bucket/static/js/main.443ee46e.js.map",
-    "453.59bb3b6d.chunk.js.map": "/Text-Bucket/static/js/453.59bb3b6d.chunk.js.map"
+    "main.css": "/Tasks-Bucket/static/css/main.f855e6bc.css",
+    "main.js": "/Tasks-Bucket/static/js/main.04e4a984.js",
+    "static/js/453.59bb3b6d.chunk.js": "/Tasks-Bucket/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "/Tasks-Bucket/index.html",
+    "main.f855e6bc.css.map": "/Tasks-Bucket/static/css/main.f855e6bc.css.map",
+    "main.04e4a984.js.map": "/Tasks-Bucket/static/js/main.04e4a984.js.map",
+    "453.59bb3b6d.chunk.js.map": "/Tasks-Bucket/static/js/453.59bb3b6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.443ee46e.js"
+    "static/js/main.04e4a984.js"
   ]
 }
