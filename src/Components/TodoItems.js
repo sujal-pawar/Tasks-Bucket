@@ -8,7 +8,7 @@ const TodoItems = ({todo,onDelete}) => {
                     <h5 className="card-title">{todo.title}</h5>
                     <p className="card-text">{todo.description}</p>
                 </div>
-            <button className="btn btn-sm btn-danger" onClick={()=>{onDelete(todo)}}>Delete</button>
+            <button className="btn btn-sm btn-danger" onClick={()=>{onDelete(todo)}}>Done</button>
             </div>
         </div>
     )
