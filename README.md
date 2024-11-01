@@ -5,7 +5,6 @@
 ## Features
 - **Add Tasks**: Easily create tasks.
 - **Organized Interface**: Clear and simple design for smooth navigation.
-- **Responsive Design**: Works seamlessly across different devices.
 
 ## Tech Used
 - **React**
